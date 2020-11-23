@@ -9,7 +9,7 @@ Simple Password Manager.
 - generate a account in a application which will be local to user.
 - password genereated during this step will be encrypted using sha256 encoding
 - all the data related to the user will be stored at user's local machine(i.e. his device)
-- if user forgets his password, password cannot be recoverd from out end.(since the password is hashed locally)
+- if user forgets his password, password cannot be recoverd from our end.(since the password is hashed locally)
 
 
 # Bonus feature we'll try to implement
